@@ -1,0 +1,31 @@
+[
+    {
+        "texto": "Produto excelente",
+        "esperado": "POSITIVO"
+    },
+
+    {
+        "texto": "Entrega muito rápida",
+        "esperado": "POSITIVO"
+    },
+
+    {
+        "texto": "Produto veio quebrado",
+        "esperado": "NEGATIVO"
+    },
+
+    {
+        "texto": "Atendimento horrível",
+        "esperado": "NEGATIVO"
+    },
+
+    {
+        "texto": "Produto normal",
+        "esperado": "NEUTRO"
+    },
+
+    {
+        "texto": "Nada demais",
+        "esperado": "NEUTRO"
+    }
+]
